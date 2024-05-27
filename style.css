@@ -10,3 +10,8 @@
 .container2{
     display: flex;
 }
+
+img{
+    width: 300px;
+    height: auto;
+}
