@@ -5,6 +5,7 @@
 
 .container1{
     display: flex;
+    justify-content: space-between;
 }
 
 .container2{
@@ -27,7 +28,16 @@ h2{
 }
 
 ul{
+    display: flex;
     font-size: 18px;
     color: #E5E7EB;
     list-style-type: none;
+}
+
+h2,ul{
+    padding: 12px;
+}
+
+li{
+    padding: 12px;
 }
