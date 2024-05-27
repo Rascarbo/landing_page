@@ -1,0 +1,12 @@
+.header{
+    background-color: rgb(38, 47, 80);
+    color: white;
+}
+
+.container1{
+    display: flex;
+}
+
+.container2{
+    display: flex;
+}
