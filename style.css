@@ -17,12 +17,12 @@ body{
     margin-bottom: 60px;
 }
 
-h1{
+.firsth{
     font-size: 48px;
     font-weight: 900;
 }
 
-p{
+.titlep{
     font-size: 18px;
     color:#E5E7EB;
 }
