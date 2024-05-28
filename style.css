@@ -1,15 +1,12 @@
 .header{
     background-color: rgb(38, 47, 80);
     color: white;
+    padding: 20px 50px;
 }
 
-.container1{
+.container1,.container2{
     display: flex;
     justify-content: space-between;
-}
-
-.container2{
-    display: flex;
 }
 
 img{
@@ -32,12 +29,5 @@ ul{
     font-size: 18px;
     color: #E5E7EB;
     list-style-type: none;
-}
-
-h2,ul{
-    padding: 12px;
-}
-
-li{
-    padding: 12px;
+    gap: 12px;
 }
