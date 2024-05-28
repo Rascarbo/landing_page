@@ -56,9 +56,11 @@ ul{
     gap: 12px;
 }
 
-img{
+.imagb{
     width: 150px;
     height: 150px;
+    border:#3882F6 solid 3px;
+    border-radius: 6px;
 }
 
 .images{
