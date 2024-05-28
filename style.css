@@ -60,3 +60,21 @@ img{
     width: 150px;
     height: 150px;
 }
+
+.images{
+    display: flex;
+    padding: 24px;
+    gap: 50px;
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sub{
+    width: 150px;
+    text-align: center;
+    margin: 8px auto;
+}
