@@ -27,7 +27,7 @@ body{
     color:#E5E7EB;
 }
 
-img{
+.imageh{
     width: 300px;
     height: auto;
 }
@@ -54,4 +54,9 @@ ul{
     color: #E5E7EB;
     list-style-type: none;
     gap: 12px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
 }
