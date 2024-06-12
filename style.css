@@ -91,16 +91,22 @@ ul{
     background-color: #E5E7EB;
     display: flex;
     justify-content: center;
-
 }
 
 .quote{
     font-size: 36px;
-    font-weight: light;
+    font-weight: 300;
     font-style: italic;
     color: #1F2937;
+    text-align: center;
 }
 
 .name{
     font-weight: bold;
+    text-align: right;
+}
+
+.qcenter{
+    width: 700px;
+    height: auto;
 }
