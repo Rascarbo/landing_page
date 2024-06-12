@@ -86,3 +86,21 @@ ul{
     font-weight: 900;
     color: #1F2937;
 }
+
+.qbody{
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+
+}
+
+.quote{
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.name{
+    font-weight: bold;
+}
