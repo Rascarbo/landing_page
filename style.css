@@ -32,7 +32,7 @@ body{
     height: auto;
 }
 
-button{
+.firstbutton{
     width: 100px;
     height: auto;
     background-color: #3882F6;
@@ -110,4 +110,45 @@ ul{
     width: 700px;
     height: auto;
     padding: 80px;
+}
+
+.endbody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+}
+
+.bluebox{
+    background-color: #3882F6;
+    padding: 30px 100px;
+    color:#F9FAF8;
+    border-radius: 6px;
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.call{
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.textc{
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.secondbutton{
+    width: 100px;
+    height: auto;
+    background-color: #3882F6;
+    border: solid 2px #F9FAF8;
+    padding: 6px;
+    color:#F9FAF8;
+    border-radius: 6px;
+    font-weight: 600;
 }
